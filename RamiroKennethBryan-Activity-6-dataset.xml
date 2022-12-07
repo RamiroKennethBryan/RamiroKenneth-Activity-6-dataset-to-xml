@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Crimes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<incident>
+		<id>201219928</id>
+		<code>1204</code>
+		<cr>180063894</cr>
+		<date>12/21/2018 09:13:13 PM</date>
+		<nibrs>120</nibrs>
+		<victims>1</victims>
+		<cname1>Crime Against Property</cname1>
+		<cname2>Robbery</cname2>
+		<cname3>ROBBERY - STREET-GUN</cname3>
+		<police>WHEATON</police>
+	</incident>
+	<incident>
+		<id>201301798</id>
+		<code>5016</code>
+		<cr>200035833</cr>
+		<date>09/13/2020 12:26:58 AM</date>
+		<nibrs>90Z</nibrs>
+		<victims>1</victims>
+		<cname1>Crime Against Society</cname1>
+		<cname2>All Other Offenses</cname2>
+		<cname3>OBSTRUCT GOVT - VIOLATION OF A COURT ORDER</cname3>
+		<police>GERMANTOWN</police>
+	</incident>
+	<incident>
+		<id>201221577</id>
+		<code>5404</code>
+		<cr>190000342</cr>
+		<date>43525.1172106481</date>
+		<nibrs>90D</nibrs>
+		<victims>1</victims>
+		<cname1>Crime Against Society</cname1>
+		<cname2>Driving Under the Influence</cname2>
+		<cname3>DRIVING UNDER THE INFLUENCE LIQUOR</cname3>
+		<police>ROCKVILLE</police>
+	</incident>
+	<incident>
+		<id>201221577</id>
+		<code>9053</code>
+		<cr>190000342</cr>
+		<date>43525.1172106481</date>
+		<nibrs>90Z</nibrs>
+		<victims>1</victims>
+		<cname1>Other</cname1>
+		<cname2>All Other Offenses</cname2>
+		<cname3>LITTERING/TRASH DUMPING</cname3>
+		<police>ROCKVILLE</police>
+	</incident>
+	<incident>
+		<id>201294935</id>
+		<code>2303</code>
+		<cr>200027681</cr>
+		<date>07/16/2020 05:29:50 PM</date>
+		<nibrs>23C</nibrs>
+		<victims>1</victims>
+		<cname1>Crime Against Property</cname1>
+		<cname2>Shoplifting</cname2>
+		<cname3>LARCENY - SHOPLIFTING</cname3>
+		<police>GERMANTOWN</police>
+	</incident>
+	<incident>
+		<id>201302822</id>
+		<code>1103</code>
+		<cr>200036477</cr>
+		<nibrs>11A</nibrs>
+		<victims>1</victims>
+		<cname1>Crime Against Person</cname1>
+		<cname2>Forcible Rape</cname2>
+		<cname3>RAPE - STRONG-ARM</cname3>
+		<police>MONTGOMERY VILLAGE</police>
+	</incident>
+	<incident>
+		<id>201230089</id>
+		<code>4004</code>
+		<cr>190010482</cr>
+		<date>43619.6831365741</date>
+		<nibrs>40A</nibrs>
+		<victims>1</victims>
+		<cname1>Crime Against Society</cname1>
+		<cname2>Prostitution</cname2>
+		<cname3>COMM SEX OFF - PROSTITUTION</cname3>
+		<police>ROCKVILLE</police>
+	</incident>
+	<incident>
+		<id>201103144</id>
+		<code>5404</code>
+		<cr>16053153</cr>
+		<nibrs>90D</nibrs>
+		<victims>1</victims>
+		<cname1>Crime Against Society</cname1>
+		<cname2>Driving Under the Influence</cname2>
+		<cname3>DRIVING UNDER THE INFLUENCE LIQUOR</cname3>
+		<police>ROCKVILLE</police>
+	</incident>
+	<incident>
+		<id>201281828</id>
+		<code>5404</code>
+		<cr>200012544</cr>
+		<date>03/14/2020 02:48:22 AM</date>
+		<nibrs>90D</nibrs>
+		<victims>1</victims>
+		<cname1>Crime Against Society</cname1>
+		<cname2>Driving Under the Influence</cname2>
+		<cname3>DRIVING UNDER THE INFLUENCE LIQUOR</cname3>
+		<police>MONTGOMERY VILLAGE</police>
+	</incident>
+	<incident>
+		<id>201288711</id>
+		<code>3699</code>
+		<cr>200020337</cr>
+		<date>05/21/2020 05:11:18 PM</date>
+		<nibrs>11D</nibrs>
+		<victims>1</victims>
+		<cname1>Crime Against Person</cname1>
+		<cname2>Fondling</cname2>
+		<cname3>SEX OFFENSE - FONDLING</cname3>
+		<police>WHEATON</police>
+	</incident>
+</Crimes>
